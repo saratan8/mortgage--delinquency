@@ -89,4 +89,4 @@ P(y = k \mid x) = \frac{e^{\beta_k^\top x}}{1 + \sum_{j=1}^{K-1} e^{\beta_j^\top
 
 ## Notes
 
-Due to large file sizes, raw data is not hosted on GitHub. Contact the author or refer to [Fannie Mae CRT Portal](https://creditrisktransfer.fanniemae.com/) for access.
+Due to large file sizes, raw data is not hosted on GitHub. 
